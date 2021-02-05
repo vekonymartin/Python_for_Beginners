@@ -2,8 +2,11 @@
 ## Schedule:
 
 1. Foundations - [x]
-2. Text formatting - []
-3. Variable and types - []
-4. Mad Lib - []
-5. Branches - []
-6. Operators - []
+2. Text formatting - [ ]
+3. Variable and types - [ ]
+4. Mad Lib - [ ]
+5. Branches - [ ]
+6. Operators - [ ]
+
+- [ ]
+- [x]
