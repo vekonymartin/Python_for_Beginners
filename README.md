@@ -8,5 +8,5 @@
 5. Branches - [ ]
 6. Operators - [ ]
 
-- [ ]
-- [x]
+- [ ] \(Optional)
+- [x] \(Optional)
