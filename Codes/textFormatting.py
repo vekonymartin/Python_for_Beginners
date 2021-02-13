@@ -66,10 +66,10 @@ The octal of 100 is 144
 #------------------------------------
 
 # Signed numbers
-print('Output: '.format(42))
+print('Output: {0}'.format(42))
 print('Output: {:+d}'.format(42))
 
-print('Output: '.format(-42))
+print('Output: {0}'.format(-42))
 print('Output: {: d}'.format(-42))
 
 #------------------------------------
