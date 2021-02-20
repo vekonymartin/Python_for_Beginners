@@ -10,7 +10,7 @@
 						       ends with, isdecimal, isnumeric, isalpha,
 							   isupper, islower, format
    - other method: __len__()
-3. - [ ] Variable and types
+3. - [x] Variable and types
 4. - [ ] Mad Lib
 5. - [ ] Branches
 6. - [ ] Operators
