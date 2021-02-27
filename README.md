@@ -11,7 +11,8 @@
 							   isupper, islower, format
    - other method: __len__()
 3. - [x] Variable and types
-4. - [ ] Mad Lib
+4. - [x] Mad Lib
+   - if statement, conditional operator to if statement
 5. - [ ] Branches
 6. - [ ] Operators
 
