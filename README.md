@@ -13,8 +13,15 @@
 3. - [x] Variable and types
 4. - [x] Mad Lib
    - if statement, conditional operator to if statement
-5. - [ ] Branches
-6. - [x] Operators
+5. - [x] Operators
+6. - [x] While loop
+7. - [ ] Lists
+   - Arithmetic operators
+   - Assignment operators
+   - Comparison operators
+   - Identity operators
+   - Membership operators
+8. - [ ] For loop and lists
 
 ### Links:
 - Download Python: [Python](https://www.python.org/)
