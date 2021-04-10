@@ -20,7 +20,7 @@
    - Identity operators
    - Membership operators
 6. - [x] While loop
-7. - [ ] Lists
+7. - [x] Lists
 8. - [ ] For loop and lists
 
 ### Links:
