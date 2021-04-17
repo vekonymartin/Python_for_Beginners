@@ -21,7 +21,7 @@
    - Membership operators
 6. - [x] While loop
 7. - [x] Lists
-8. - [ ] For loop and lists
+8. - [x] For loop and lists
 
 ### Links:
 - Download Python: [Python](https://www.python.org/)
