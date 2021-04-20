@@ -43,12 +43,14 @@ for i in range((len(new_decrypted_message)+1)//2):
         new_encrypted_message += second_half[i]
 print(new_encrypted_message)
 
+
 # Task 8 - Generating numbers with for loop and add them to a list
 list_1 = []
 for i in range(50):
     list_1.append(i)
 print(list_1)
 print("")
+
 
 # Task 9 - Generate numbers with for loop which start with 9 to 99
 list_1 = []
