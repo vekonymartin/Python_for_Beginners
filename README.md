@@ -21,7 +21,13 @@
    - Membership operators
 6. - [x] While loop
 7. - [x] Lists
-8. - [X] For loop and lists
+8. - [x] For loop and lists
+9. - [x] Variables and branches
+10. - [x] Noughts and crosses
+11. - [x] Practice
+12. - [x] Practice
+13. - [x] Practice
+14. - [x] Practice
 
 ### Links:
 - Download Python: [Python](https://www.python.org/)
