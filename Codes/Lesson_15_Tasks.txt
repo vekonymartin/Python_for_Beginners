@@ -1,0 +1,57 @@
+Task 1
+Írjuk ki a képernyőre a Toldi első versszakát az alábbi módon egyetlen print paranccsal:
+
+I wandered lonely as a cloud
+That floats on high o’er vales and hills,
+When all at once I saw a crowd,
+	A host, of golden daffodils;
+	Beside the lake, beneath the trees,
+	Fluttering and dancing in the breeze.
+===================================
+Task 2
+Adjuk meg egy kúp paramétereit, és számoljuk ki annak térfogatát. A kúp térfogata: (alapterület*magasság)/3
+===================================
+Task 3
+Vegyünk fel két változót bármilyen értékekkel, majd cseréljük fel az értékeiket két különböző módon is.
+===================================
+Task 4
+Adjunk meg egy input paranccsal egy sor számot. Ezeket a számokat tároljuk el egy listában, majd állítsuk őket integerekké.
+===================================
+Task 5
+Van egy listánk néhány egész számmal. A feladat, hogy szétválasszuk őket. Kerüljenek bele külön listákba a páros, illetve a páratlan elemei a listának.
+
+list_1 = [4, 8, 15, 16, 23, 42]
+===================================
+Task 6
+Van egy listánk, amiben egy sornyi gyümölcsöt látunk felsorolva, illetve egy másik listát, amiben a népszerűségük van leírva. 
+Keressük meg a legnépszerűbb gyümölcsöt, és írjuk ki a képernyőre.
+
+items = ["strawberry", "grape", "apple", "orange", "watermelon", "banana", "lemon", "avocado", "other"]
+popularity = [15, 17, 16, 10, 9, 18, 7, 5, 3]
+===================================
+Task 7
+Adott egy lista egy sornyi véletlen számmal. A feladat, hogy minden számból egy héttel osztható számot generáljunk úgy, hogy ha nem osztható héttel, akkor meg kell növelni eggyel. 
+Ezt a folyamatot addig kell ismételni az egész listára, amíg találunk olyan számot, ami nem osztható héttel. A végén írjuk ki a teljes listát, hogy lássuk, hogy biztos jól dolgoztunk.
+Link: (https://www.random.org/sequences/)
+===================================
+Task 8
+Vegyünk egy mondatot, amit eltárolunk egy változóban. A feladat, hogy összeszámoljuk, hogy mennyi magánhangzó szerepel a mondatban. A megoldáshoz célszerű egy új változóban felsorolni a magánhangzókat.
+
+text = "The way to get started is to quit talking and begin doing."
+===================================
+Task 9
+Írjunk egy egyszerű programot, amely bekér egy pozitív egész számot, majd 0-tól a megadott számig összeadja az összes egész számot, majd kiírja a képernyőre, hogy mennyi számot adtunk össze, és mennyi az eredmény.
+===================================
+Task 10
+Cows and bulls/master mind
+A játékban van egy előre megadott négy jegyű szám, amit nem ismerünk. A feladatunk, hogy kitaláljuk ezt a számot úgy, hogy mi is tippelünk egy négyjegyű számot, amiről a program elmondja, hogy a számjegyek közül
+mennyi van benne és jó helyen (cows), illetve mennyi van benne, de rossz helyen (bulls)(nyilván ha ez a kettő nem adja ki a négyet, akkor van olyan szám a tippünkben, ami nem szerepel a kitalálandó számban.).
+Ez a játék valamivel összetettebb az előző programoknál, így akár közösen is el lehet készíteni.
+
+puzzle = "3618"
+===================================
+Task 11
+A következő feladatunkban két megadott szóról kell eldöntenünk, hogy anagrammák-e, azaz hogy ugyan azokból a betűkből áll-e össze a szó.
+
+word_1 = "Amy"
+word_2 = "May"

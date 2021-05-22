@@ -1,0 +1,126 @@
+MENTÉS: Quiz_[NÉV].txt formátumban kell!!!
+E-MAIL: vekony.martin@trainers.logiscool.com
+
+1. Melyik állítások igazak az alábbiak közül?
+
+A. Egy lista minden elemének azonos típusúnak kell lennie.
+B. A listák méretére nincs korlátozás
+C. Egy listában ugyan az az elem akár többször is megjelenhet.
+D. Listákban minden típusú elem lehet a lista kivételével.
+
+ANSWER:
+=================================================================
+2. Mi lesz az alábbi program eredménye?
+
+newList = []
+newList.append(2)
+newList.append(1)
+print(newList)
+
+A. [1,2]
+B. [2,1]
+C. [12]
+D. [21]
+
+ANSWER:
+=================================================================
+3. Mi lesz az alábbi program ererdménye?
+
+newList = [10,20,30,40,50]
+newList.pop()
+newList.pop(2)
+print(newList)
+
+A. egy üres lista
+B. [10,20,40]
+C. [10,30,40]
+D. [10,40,50]
+
+ANSWER:
+=================================================================
+4. Mi lesz az alábbi program ererdménye?
+
+newList = []
+newList.insert(1,2)
+print(newList)
+
+A. [0,2]
+B. [0,0,1]
+C. [1,2]
+D. [2]
+
+ANSWER:
+=================================================================
+5. Mennyiszer ismétel majd a while ciklus, 
+   és mi lesz az utolsó szám, amit kiír?
+   
+A. 10-szer ismétel, és a 9 az utolsó kiírt szám
+B. 10-szer ismétel, és a 10 az utolsó kiírt szám
+C. 9-szer ismétel, és a 9 az utolsó kiírt szám
+D. 9-szer ismétel, és a 10 az utolsó kiírt szám
+
+ANSWER:
+=================================================================
+6. Mi lesz a lista értéke?
+
+newList = [4,8,15,16]
+newList[2:4] = [23, 42]
+print(newList)
+
+A. [4,8,15,16,23,42]
+B. [4,23,42]
+C. [4,8,23,42]
+D. [4,8,15,23,42]
+
+ANSWER:
+=================================================================
+7. Mi lesz a newList lista értéke?
+
+listA = [2,4,6,8]
+listB = [1,3,5,7]
+newList = listA + listB
+print(newList)
+
+A. [1,2,3,4,5,6,7,8]
+B. [2,4,6,8,1,3,5,7]
+C. [3,7,11,15]
+D. [1,3,5,7,2,4,6,8]
+
+ANSWER:
+=================================================================
+8. Mit fog csinálni az alábbi kód?
+
+names = ["John","Christopher","Carla","Perry","Elliot"]
+names.remove(2)
+print(names)
+
+A. Kitörli a 2 indexű elemet a listából
+B. Semmit, mert nincs olyan elem, aminek 2 az értéke
+C. Hibát kapunk, mert nincs olyan elem, aminke 2 az értéke.
+D. Kitörli az utolsó 2 elemet a listából.
+
+ANSWER:
+=================================================================
+9. Melyik elem lesz kiírva a képernyőre?
+
+names = ["Malory","Cheryl","Ray","Archer"]
+print(names[-2])
+
+A. Malory
+B. Cheryl
+C. Ray
+D. Archer
+
+ANSWER:
+=================================================================
+10. Mit fogunk kiírni a képernyőre?
+
+names = ["Malory","Cheryl","Ray","Archer"]
+print(names[-2]:)
+
+A. ['Malory','Cheryl']
+B. ['Ray','Archer']
+C. ['Cheryl','Ray']
+D. ['Malory','Cheryl','Ray']
+
+ANSWER:
