@@ -29,6 +29,8 @@
 13. - [x] Practice
 14. - [x] Practice
 15. - [x] Practice
+16. - [x] Decision tree
+17. - [ ] Escape from room
 
 ### Links:
 - Download Python: [Python](https://www.python.org/)

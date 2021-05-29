@@ -13,7 +13,7 @@ B. [0,1,2,3,4]
 C. [0,2,3,4]
 D. [1,2,3,4,0]
 
-ANSWER:
+ANSWER: C
 =================================================================
 2. Mi lesz a kimenete az alábbi programnak?
 
@@ -24,7 +24,7 @@ print(list_1 + list_2)
 A. [1,2,3,4,5,6,7,8]
 B. [6,8,10,12]
 
-ANSWER:
+ANSWER: A
 =================================================================
 3. Mi lesz a kimenete az alábbi programnak?
 
@@ -36,7 +36,7 @@ B. 6
 C. 8
 D. Pamela
 
-ANSWER:
+ANSWER: C
 =================================================================
 4. Mi lesz a kimenete az alábbi programnak?
 
@@ -48,7 +48,7 @@ B. [2,3,5,8,13]
 C. [1,2,3,5,8,13]
 D. [2,3,5,8,13,21]
 
-ANSWER:
+ANSWER: B
 =================================================================
 5. Az in operátor True eredményt ad vissza, ha egy bizonyos elem
 bennve van a listában.
@@ -56,7 +56,7 @@ bennve van a listában.
 A. Igaz
 B. Hamis
 
-ANSWER:
+ANSWER: A
 =================================================================
 6. Mi lesz a kimenete az alábbi programnak?
 
@@ -68,7 +68,7 @@ B. <class 'bool'>
 C. <class 'str'>
 D. <class 'list'>
 
-ANSWER:
+ANSWER: D
 =================================================================
 7. Mi lesz a kimenete az alábbi programnak?
 
@@ -83,7 +83,7 @@ B. [6,12,0,10]
 C. [6,12,10]
 D. []
 
-ANSWER:
+ANSWER: B
 =================================================================
 8. Mennyi nevet törlünk ki a listából?
 
@@ -99,7 +99,7 @@ B. 4
 C. 5
 D. 6
 
-ANSWER:
+ANSWER: B
 =================================================================
 9. Mi lesz a kimenete az alábbi programnak?
 
@@ -109,9 +109,9 @@ print(sum(list_1))
 A. 1234Bob56
 B. 10Bob56
 C. 10Bob11
-D.  Type error: integer + string nem egy támogatott művelet.
+D. Type error: integer + string nem egy támogatott művelet.
 
-ANSWER:
+ANSWER: D
 =================================================================
 10. Mi lesz a kimenete az alábbi programnak?
 
@@ -134,4 +134,4 @@ B. 3
 C. 4
 D. 5
 
-ANSWER:
+ANSWER: B
